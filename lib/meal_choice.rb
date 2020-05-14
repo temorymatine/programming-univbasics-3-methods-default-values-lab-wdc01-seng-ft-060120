@@ -7,4 +7,4 @@ def meal_choice(veg1,veg2, protien)
   
 end
 
-meal_choice("tofu", "corn", "lettuce")
+meal_choice("corn", "lettuce", "tofu")
